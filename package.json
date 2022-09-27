@@ -1,0 +1,11 @@
+{
+  "name": "@wcd/abhire.swc-menu-fork-l8k1tahs",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ZH32A3vAU227OYkf8F6v --open"
+  }
+}
